@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 6em;
+  margin-top: 0;
+  padding-top: 200px;
+  margin-bottom: 10px;
+  line-height: .7em;
+}
+
+h2, h3 {
+  font-size: 3em;
+  font-family: 'Kaushan Script', cursive;
+}
+
+p {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 1.5em;
+}
+
+
+.top-container {
+  position: relative;
+  background-color: snow;
+  height: 52em;
+}
+
+.sean {
+  width: 21%;
+  border-radius: 200px;
+  margin-top: 6em;
+}
+
+.profile {
+  width: 100%;
+}
+
+.profiletext {
+  width: 30%;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+hr {
+  width: 10%;
+  border-style: none none dotted;
+  border-width: 10px;
+  border-color: lavender;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.skills {
+  height: max-content;
+  padding-top: 40px;
+}
+
+.img {
+  width: 18%;
+  position: relative;
+  top: 30px;
+}
+
+.blue {
+  color: tomato;
+  font-weight: bold;
+}
+
+.design {
+  display: inline-block;
+  text-align: justify;
+  width: 30%;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
+
+.cloud1 {
+  position: absolute;
+  top: 33%;
+  height: 20%;
+  left: 13%;
+}
+
+.cloud2 {
+  position: absolute;
+  top: 5%;
+  right: 11%;
+  height: 20%;
+}
+
+.mountain {
+  position: absolute;
+  width: 60%;
+  left: 20%;
+  top: 385px;
+}
+
+
+.float {
+  text-align: left;
+  margin: 0 auto;
+  width: 50%;
+  font-size: 1.5em;
+}
+
+.floatimg {
+  width:37%;
+  float: left;
+  margin-right: 20px;
+}
+
+.floatcolor {
+  color: tomato;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.endingp {
+  margin-bottom: 80px;
+}
+
+.contact-me {
+  margin-bottom: 80px;
+}
+
+.btn {
+  background-color: darkorange;
+  border-radius: 5%;
+}
+
+
+.bottom-container {
+  height: max-content;
+  background-color: aquamarine;
+  padding-top: 30px;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: deeppink;
+  font-size: 1.3em;
+  padding: 30px;
+  font-family: 'Kaushan Script', cursive;
+
+}
